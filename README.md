@@ -23,12 +23,12 @@ Bot otomatis untuk validasi data di jaringan Stork Oracle dengan dukungan multi 
 
 1. Clone repository:
 ```
-git clone https://github.com/airdropinsiders/Stork-Auto-Bot.git
+git clone https://github.com/56ix8/Stork-Oracle-Auto-Bot-Multi
 ```
 
 2. Masuk ke direktori proyek:
 ```
-cd Stork-Auto-Bot
+cd Stork-Oracle-Auto-Bot-Multi
 ```
 
 3. Instal dependensi:
