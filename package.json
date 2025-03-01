@@ -1,0 +1,29 @@
+{
+  "name": "stork-auto-bot",
+  "version": "1.0.0",
+  "description": "Automated validation bot for Stork Oracle network with multi-account support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stork",
+    "oracle",
+    "validation",
+    "bot",
+    "automation",
+    "multi-account"
+  ],
+  "author": "Airdrop Insiders",
+  "license": "MIT",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^6.3.1",
+    "axios": "^1.6.2",
+    "https-proxy-agent": "^7.0.2",
+    "socks-proxy-agent": "^8.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
